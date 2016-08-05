@@ -2,7 +2,7 @@
 
 Si has adquirido un LCD de 3.5" marca OsoYoo:
  
-[LCD 3.5" Osoyoo](https://github.com/mfcardenas/osoyooTFT/img/img_model_jpg) 
+[LCD 3.5" Osoyoo](https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model.jpg) 
 
 Podras ponerle a funcionar sin problema alguno siguiendo los pasos que se indican a continuación.
 
@@ -13,7 +13,7 @@ Este proyecto es una idea original de [Jerry Gamblin](https://github.com/jgambli
 ##Modelo utilizado para esta prueba
  
 
-[LCD 3.5" Osoyoo Model 6.2](https://github.com/mfcardenas/osoyooTFT/img/img_model_jpg)
+[LCD 3.5" Osoyoo Model 6.2](https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model_2.jpg)
 
 ##V4 Installation
 
