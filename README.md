@@ -99,6 +99,11 @@ To enable LCD:
  
  `./LCD_restore`
 
+## LCD with Raspberry Pi 3
+
+<img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_run_1.jpg"/>
+
+<img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_run_2.jpg"/>
  
  
 ##More drivers, other version and images disk
