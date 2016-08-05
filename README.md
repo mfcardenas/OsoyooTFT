@@ -1,20 +1,17 @@
 # Osoyoo 3.5" Touch Screen Raspberry Pi Install
 
-Si has adquirido un LCD de 3.5" marca OsoYoo:
+Poner en funcionamiento un LCD de 3.5" OsoYoo
  
 <img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model.jpg"/> 
 
-Podras ponerle a funcionar sin problema alguno siguiendo los pasos que se indican a continuación.
-
-
-
- 
 
 ##Modelo utilizado para esta prueba
  
 <img title="LCD 3.5 Osoyoo Model 6.2" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model_2.jpg"/> 
 
-##V4 Installation
+## Instalación
+
+####Version 4
 
 From the Terminal:
 
@@ -38,7 +35,7 @@ To enable LCD:
  `./LCD_hdmi`
 
 
-##V5 Installation
+####Version 5
 
 From the Terminal:
 
