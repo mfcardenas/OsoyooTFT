@@ -2,18 +2,17 @@
 
 Si has adquirido un LCD de 3.5" marca OsoYoo:
  
-[LCD 3.5" Osoyoo](https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model.jpg) 
+<img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model.jpg"/> 
 
 Podras ponerle a funcionar sin problema alguno siguiendo los pasos que se indican a continuación.
 
 
 
-Este proyecto es una idea original de [Jerry Gamblin](https://github.com/jgamblin) [Proyecto Original](https://github.com/jgamblin/OsoYooTFT.git) 
+ 
 
 ##Modelo utilizado para esta prueba
  
-
-[LCD 3.5" Osoyoo Model 6.2](https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model_2.jpg)
+<img title="LCD 3.5 Osoyoo Model 6.2" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model_2.jpg"/> 
 
 ##V4 Installation
 
@@ -108,6 +107,6 @@ To enable LCD:
 ##More Files
  There are [more files here] (http://en.kedei.net/raspberry/raspberry.html).
  
-##Important Notice
- 
-*I dont know what I am doing. This could break your system.* 
+
+##Importante:
+Este proyecto es una idea original de [Jerry Gamblin](https://github.com/jgamblin) [Proyecto Original](https://github.com/jgamblin/OsoYooTFT.git) 
