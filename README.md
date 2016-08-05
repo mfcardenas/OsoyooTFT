@@ -115,7 +115,7 @@ Visit the website [for more information](http://en.kedei.net/).
 This project is an idea [Jerry Gamblin](https://github.com/jgamblin) [Proyecto Original](https://github.com/jgamblin/OsoYooTFT.git) 
 
 ##Other information
-[post 1](http://duinorasp.hansotten.com/3-5-lcd-tft-touch-screen-display-on-aliexpress/)
+[Post 1](http://duinorasp.hansotten.com/3-5-lcd-tft-touch-screen-display-on-aliexpress/)
 
 [Post 2](https://heikki.virekunnas.fi/2015/raspberry-pi-tft/)
 
