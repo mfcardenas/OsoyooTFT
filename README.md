@@ -84,7 +84,8 @@ To enable HDMI:
  
 ####Version 6.1 y 6.2
 
-`sudo wget http://en.kedei.net/raspberry/v6/LCD_show_v6_1_2.tar.gz`
+`sudo wget http://en.kedei.net/raspberry/v6_1/LCD_show_v6_1_2.tar.gz`
+
 `tar xzvf LCD_show_v6_1_2.tar.gz`
 
 To enable LCD:
