@@ -5,13 +5,13 @@ Implement a LCD de 3.5" OsoYoo
 <img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model.jpg"/> 
 
 
-##Model used for this test
+## Model used for this test
  
 <img title="LCD 3.5 Osoyoo Model 6.2" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_model_2.jpg"/> 
 
 ## Installation
 
-####Version 4
+#### Version 4
 
 From the Terminal:
 
@@ -35,7 +35,7 @@ To enable HDMI:
  `./LCD_hdmi`
 
 
-####Version 5
+#### Version 5
 
 From the Terminal:
 
@@ -59,7 +59,7 @@ To enable HDMI:
  `./LCD_restore`
  
  
-####Version 6.0 y 6.2
+#### Version 6.0 y 6.2
 
 From the Terminal:
 
@@ -82,7 +82,7 @@ To enable HDMI:
  
  `./LCD_restore`
  
-####Version 6.1 y 6.2
+#### Version 6.1 y 6.2
 
 `sudo wget http://en.kedei.net/raspberry/v6_1/LCD_show_v6_1_2.tar.gz`
 
@@ -107,15 +107,15 @@ To enable LCD:
 <img title="LCD 3.5 Osoyoo" src="https://github.com/mfcardenas/osoyooTFT/blob/master/img/img_run_2.jpg"/>
  
  
-##More drivers, other version and images disk
+## More drivers, other version and images disk
  
 Visit the website [for more information](http://en.kedei.net/).
  
 
-##Important:
+## Important:
 This project is an idea [Jerry Gamblin](https://github.com/jgamblin) [Proyecto Original](https://github.com/jgamblin/OsoYooTFT.git) 
 
-##Other information
+## Other information
 [Post 1](http://duinorasp.hansotten.com/3-5-lcd-tft-touch-screen-display-on-aliexpress/)
 
 [Post 2](https://heikki.virekunnas.fi/2015/raspberry-pi-tft/)
